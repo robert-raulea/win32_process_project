@@ -1,0 +1,3 @@
+﻿  proiect_child.cpp
+C:\Users\raule\source\repos\proiect_child\proiect_child\proiect_child.cpp(91): warning C4715: 'WindowProcedure': not all control paths return a value
+  proiect_child.vcxproj -> C:\Users\raule\source\repos\proiect_child\Debug\proiect_child.exe
